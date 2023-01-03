@@ -1,4 +1,4 @@
-# fresh project
+# Deno fresh project
 
 ### Usage
 
